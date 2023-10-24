@@ -28,12 +28,20 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.grid-6-columns {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
 .img-responsive {
   size: 75%;
   display: block;
   margin: 0 auto;
 }
-
+.gallery {
+  display: block;
+  margin: 0 auto;
+  size: 200%;
+}
 .embed {
   width: 100%;
   aspect-ratio: 21/9;

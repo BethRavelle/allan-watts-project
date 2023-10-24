@@ -1,5 +1,6 @@
 body {
   font-family: "Montserrat Alternates", sans-serif;
+  background: #272044;
 }
 
 .container {
@@ -79,7 +80,7 @@ body {
 section {
   max-width: 100%;
   margin: 0 auto;
-  padding: 100px 0;
+  padding: 100px 50px;
 }
 
 section.secondary {

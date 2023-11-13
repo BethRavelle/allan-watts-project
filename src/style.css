@@ -237,13 +237,7 @@ footer a {
 }
 
 @media (max-width: 560px) {
-  main h3 {
-    font-size: 35px;
-  }
-  main p {
-    font-size: 12px;
-  }
   .img-responsive {
-    size: 50% !important;
+    width: 300px;
   }
 }
